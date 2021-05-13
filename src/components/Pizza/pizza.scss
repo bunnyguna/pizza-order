@@ -1,0 +1,23 @@
+.header-title {
+    display: flex;
+    align-items: center;
+    color: #273289;
+    .title-sub {
+        padding-left: 6px;
+    }
+}
+.order-wrapper {
+    border: 1px solid #7f7f7f;
+    width: 500px;
+    padding: 16px;
+    .pizza-count {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+    }
+}
+.order-total {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

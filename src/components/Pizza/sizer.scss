@@ -1,0 +1,31 @@
+.sizer-container {
+    display: flex;
+    margin-bottom: 1rem;
+    align-items: center;
+    justify-content: space-between;
+    .pizza-icon {
+        padding-right: 20px;
+    }
+    .pizza-type {
+        margin-right: 16px;
+        margin-left: 16px;
+        color:  #293387;
+    }
+    .sizer-type {
+        display: flex;
+        align-items: center; 
+        margin-right: 24px;
+        width: 140px;
+    }
+    .counter-wrap {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        .count-value {
+            margin: 0 16px;
+            color: #a7abad;
+            font-size: 20px;
+        }
+    }
+    
+}

@@ -1,0 +1,31 @@
+.minus-icon {
+    ellipse {
+        fill:#273289;
+    }
+    rect {
+        fill:#FFFFFF;
+    }
+}
+
+.plus-icon {
+    path {
+        fill:#e6385b;
+    }
+}
+
+.rooms-icon, .adult-icon, .children-icon, .people-icon {
+    fill: #293387;
+}
+
+.disable-minus-icon {
+    ellipse {
+        fill:#7f7f7f;
+    }
+    rect {
+        fill:#FFFFFF;
+    }
+}
+
+.pizza-icon {
+    fill: #27318d;
+}
